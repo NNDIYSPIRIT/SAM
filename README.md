@@ -24,7 +24,8 @@ Open your terminal or command prompt in this directory and execute:
 python sam_python_chatbot.py
 ```
 
-Join the Universe
-YouTube: @NNDIYSPIRIT
-GitHub: Check out our other open-source DIY builds and tech experiments!
-Always learning, always building. 🚀
+## 🌌 Join the Universe
+- **YouTube:** [@NNDIYSPIRIT](https://www.youtube.com/results?search_query=%40nndiyspirit)
+- **GitHub:** Check out our other open-source DIY builds and tech experiments!
+
+*Always learning, always building.* 🚀
