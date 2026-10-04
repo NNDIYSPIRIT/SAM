@@ -8,7 +8,7 @@ In this project, we assemble a simple Python AI chatbot step-by-step.
 ---
 ## 🎬 YouTube Tutorial
 Watch the step-by-step video on YouTube:
-👉 [Watch the Full Video]([https://www.youtube.com/@NNDIYSPIRIT](https://youtu.be/Hv-F8SRV9ZY))
+👉 [Watch the Full Video](https://youtu.be/dontkHvsRBM)
 ---
 ## 🚀 Features
 - Easy-to-understand Python implementation
